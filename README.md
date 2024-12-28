@@ -1,5 +1,5 @@
-# T-FLIPFLOP-POSEDGE
-
+## EX-09 T-FLIPFLOP-POSEDGE
+## DATE:23-11-2024
 **AIM:**
 
 To implement  T flipflop using verilog and validating their functionality using their functional tables
@@ -67,16 +67,16 @@ begin
   end
   
 endmodule
-
+```
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by:V.Patrick Alex Emmanuel
+## Developed by: PRIYADHARSHINI P
 
-RegisterNumber: 24900019
+## RegisterNumber: 24901256
 
 */
-```
+
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="850" alt="Screenshot 2024-12-07 at 3 05 34 PM" src="https://github.com/user-attachments/assets/af3eaa00-df1a-4b0f-a0bc-372816a27495">
 
